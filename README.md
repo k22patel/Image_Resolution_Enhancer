@@ -1,5 +1,14 @@
 # Image_Resolution_Enhancer
 Enhancing Image Resolution Via Deep Learning
+
+## Architecture
+
+SRCNN architecture based on the Image super-resolution using deep convolutional networks research paper.
+
+[1] Dong, Chao, et al. “Image super-resolution using deep convolutional networks.” IEEE transactions on pattern analysis and machine intelligence 38.2 (2015): 295–307.
+
+
+
 ## Training Results: 
 
 <img width="238" alt="image" src="https://github.com/user-attachments/assets/7ce41503-a648-4849-a23e-5239bdd22d92">
